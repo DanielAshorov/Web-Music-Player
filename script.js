@@ -30,7 +30,7 @@ const songs = [
   {
     name: 'Osher',
     displayName: 'Shirim Shel Omer',
-    artist: 'Omer Adam',
+    artist: 'Osher Cohen',
   },
 ];
 
